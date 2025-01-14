@@ -26,3 +26,4 @@ This project simulates the motion of multiple spacecraft under the influence of 
    ```bash
    git clone <repository_url>
    cd SpacecraftSimulation
+   code .
