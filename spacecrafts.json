@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Explorer-1",
+      "mass": 500,
+      "fuel": 100,
+      "thrust": 5000,
+      "angle": 75
+    },
+    {
+      "name": "Voyager",
+      "mass": 600,
+      "fuel": 120,
+      "thrust": 6000,
+      "angle": 60
+    },
+    {
+      "name": "Pioneer",
+      "mass": 450,
+      "fuel": 80,
+      "thrust": 4000,
+      "angle": 85
+    }
+]  

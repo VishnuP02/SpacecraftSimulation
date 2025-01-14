@@ -1,0 +1,9 @@
+{
+    "mass": 500,
+    "fuel": 100,
+    "thrust": 5000,
+    "angle": 75,
+    "simulation_time": 20,
+    "time_step": 0.1,
+    "fuel_consumption_rate": 0.5
+}  
